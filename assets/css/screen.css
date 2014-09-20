@@ -162,6 +162,10 @@ h5 {
 h6 {
     font-size: 2rem;
 }
+git {
+    float: center;
+
+}
 
 a {
     color: inherit;
